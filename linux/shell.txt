@@ -13,3 +13,9 @@ then
 fi
 
 
+
+vimdiff 文件1 文件2  （比对文件不同）
+tar -xvf nginx.tar,gz  (解压);
+ctrl+w 再按s||v  （多屏）
+\netstat -anp  （查看端口占用）
+
